@@ -23,9 +23,9 @@
         "zendframework/zend-feed": "2.0.*"
     },
     "require-dev": {
-        "liip/functional-test-bundle": "functional testing bundle",
-        "doctrine/doctrine-fixtures-bundle": "required for functional testing",
-        "doctrine/data-fixtures": "required for functional testing"
+        "liip/functional-test-bundle": "dev-master",
+        "doctrine/doctrine-fixtures-bundle": "dev-master",
+        "doctrine/data-fixtures": "dev-master"
     },
     "repositories": [
         {
